@@ -1,3 +1,8 @@
+'''
+This is a layer based approach
+
+Note to self: Not the best method :)
+'''
 import json
 from jinja2 import Template
 import tkinter as tk
