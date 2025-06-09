@@ -1,0 +1,8 @@
+The system is categorized as: Internal company portal or dashboard.
+It is primarily used by: Third-party partners or vendors.
+It is accessible via: Only internal/VPN-restricted access.
+It relies on the following third-party services: Identity/authentication (e.g., OAuth, SSO).
+The data it processes includes: Personally identifiable information (PII).
+The system is developed and maintained by: Fully outsourced to a vendor.
+Compliance requirements include: GDPR or KVKK.
+It interacts externally with: Government or regulatory APIs.

@@ -1,0 +1,26 @@
+{
+  "q1": [
+    "Internal company portal or dashboard"
+  ],
+  "q2": [
+    "Third-party partners or vendors"
+  ],
+  "q3": [
+    "Only internal/VPN-restricted access"
+  ],
+  "q4": [
+    "Identity/authentication (e.g., OAuth, SSO)"
+  ],
+  "q5": [
+    "Personally identifiable information (PII)"
+  ],
+  "q6": [
+    "Fully outsourced to a vendor"
+  ],
+  "q7": [
+    "GDPR or KVKK"
+  ],
+  "q8": [
+    "Government or regulatory APIs"
+  ]
+}

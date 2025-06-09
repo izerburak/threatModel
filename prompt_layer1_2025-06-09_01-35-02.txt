@@ -1,0 +1,23 @@
+1. What is the primary purpose and business goal of the system?
+→ Internal company portal or dashboard
+
+2. What are the user roles and their geographic locations?
+→ Third-party partners or vendors
+
+3. Is the system accessible over the public internet? Are there any restrictions?
+→ Only internal/VPN-restricted access
+
+4. What external APIs or third-party services are used? Specify their purpose.
+→ Identity/authentication (e.g., OAuth, SSO)
+
+5. What types of data does the system process or store?
+→ Personally identifiable information (PII)
+
+6. Who owns, develops, and maintains the system?
+→ Fully outsourced to a vendor
+
+7. Are there legal or compliance frameworks applicable to the system?
+→ GDPR or KVKK
+
+8. Does the system interact with any actors or systems outside your organization?
+→ Government or regulatory APIs
